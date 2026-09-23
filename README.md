@@ -110,6 +110,13 @@ I don't just learn to code — I ship products. Every stack I've touched has res
 
 ---
 
-<p align="center">💬 Open to internships and junior developer roles in Full-Stack Development, Python, and Data Science.</p>
+### 📊 GitHub Stats
 
-<p align="center"><i>Feel free to explore my repositories, and don't hesitate to reach out — I'd love to collaborate!</i></p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HafizaMaryam25&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizaMaryam25&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=HafizaMaryam25&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
