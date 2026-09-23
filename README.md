@@ -124,6 +124,6 @@ I don't just learn to code — I ship products. Every stack I've touched has res
 
 ---
 
-<p align="center">💬 Open to internships and junior developer roles in Full-Stack Development, Python, and Data Science.</p>
+<p align="center">💬 Open to full-time roles as a Software Engineer, Full-Stack Developer, or Python Developer.</p>
 
 <p align="center"><i>Feel free to explore my repositories, and don't hesitate to reach out — I'd love to collaborate!</i></p>
