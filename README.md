@@ -1,5 +1,6 @@
-<h1 align="center">Assalam-o-Alaikum, I'm Hafiza Maryam</h1>
-<h3 align="center">Full-Stack Software Engineer | Turning Ideas Into Working Products</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2E9EF7&height=220&section=header&text=Hafiza%20Maryam&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Turning%20Ideas%20Into%20Working%20Products&descAlignY=58&descSize=18" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=I+build.+I+ship.+I+learn.;Full-Stack+Developer+%E2%80%94+MERN+%7C+.NET+%7C+Flutter;Diving+into+Data+Science+%26+Machine+Learning;Aptech+Certified+Software+Engineer;Hafiza-e-Quran+%F0%9F%93%96" alt="Typing SVG" />
@@ -8,10 +9,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:maryamyounis1990@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HafizaMaryam25&style=for-the-badge&color=2E9EF7" alt="profile views" />
 </p>
 
 ---
@@ -112,7 +109,7 @@ I don't just learn to code — I ship products. Every stack I've touched has res
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HafizaMaryam25&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=HafizaMaryam25&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
