@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=I+build.+I+ship.+I+learn.;Full-Stack+Developer+%E2%80%94+MERN+%7C+.NET+%7C+Flutter;Diving+into+Data+Science+%26+Machine+Learning;Aptech+Certified+Software+Engineer;Hafiza-e-Quran+%F0%9F%93%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=I+build.+I+ship.+I+learn.;Full-Stack+Developer+%E2%80%94+MERN+%7C+.NET+%7C+Flutter;Python+%26+Data+Science+Enthusiast;Diving+into+Machine+Learning;Aptech+Certified+Software+Engineer;Hafiza-e-Quran+%F0%9F%93%96" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -104,16 +104,12 @@ I don't just learn to code — I ship products. Every stack I've touched has res
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HafizaMaryam25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizaMaryam25&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HafizaMaryam25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HafizaMaryam25&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=HafizaMaryam25&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HafizaMaryam25&theme=tokyo-night&hide_border=true" alt="Activity graph"/>
 </p>
 
 ---
