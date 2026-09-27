@@ -16,7 +16,7 @@
 
 ### 🔍 About Me
 
-I'm a Software Engineering graduate of Aptech's **3-year ACCP Prime Diploma**, Karachi — where I built full-stack applications end-to-end across **.NET**, **MERN**, and **Flutter** stacks, earning **Distinction** in 4 of 5 completed terms. I'm now in my final term, expanding into **Data Science & Machine Learning** — Python, Django, Flask, FastAPI, Pandas, Power BI, and Streamlit.
+I'm a Software Engineering graduate of Aptech's **3-year ACCP Prime Diploma**, Karachi — where I built full-stack applications end-to-end across **.NET**, **MERN**, **Flutter**, and **Python/Data Science** stacks, earning **Distinction** in 4 of 5 graded terms *(final term transcript pending issuance)*. My final term expanded into **Data Science & Machine Learning** — Python, Django, Flask, FastAPI, Pandas, Power BI, and Streamlit.
 
 I don't just learn to code — I ship products. Every stack I've touched has resulted in a working, deployed application, not just a tutorial project.
 
@@ -100,14 +100,21 @@ I don't just learn to code — I ship products. Every stack I've touched has res
 | 🎓 **[Student Management System](https://github.com/HafizaMaryam25/Student-Management-System)** — Live | Web-based student records system with secure cookie-based authentication and role-based admin/student access, backed by Firebase Firestore. | `ASP.NET Core MVC` `C#` `Firebase` |
 | 🌍 **[EarthScape Climate Agency](https://github.com/HafizaMaryam25/ml_project)** | End-to-end Big Data & ML platform processing 40,000+ climate records — simulated Hadoop pipeline, 3 trained ML models (R²=0.985 forecasting model), and an 8-tab interactive dashboard. | `Python` `Pandas` `scikit-learn` `Chart.js` `Leaflet.js` |
 
+<p align="center">
+  <img src="./screenshots/earthscape_dashboard.png" width="45%">
+  <img src="./screenshots/babyshop_home.png" width="45%">
+</p>
+<p align="center"><i>💡 Add your own screenshots here — upload them to a `screenshots/` folder in this repo, then update the paths above. Even 2–4 images make a huge difference to recruiters.</i></p>
+
 ---
 
 ### 🎓 Education & Certifications
 
-- **Aptech Computer Education** — ACCP Prime, Diploma in Software Engineering (2023 – 2026), Grade: **Distinction**
+- **Aptech Computer Education** — ACCP Prime, Diploma in Software Engineering (2023 – 2026) — **Completed**, Grade: **Distinction** *(final semester transcript pending issuance)*
 - **Aptech Vision 2026** — Certificate of Best Project
 - **Kaggle** — Intro to Programming (Certificate of Completion)
 - **Kaggle** — Python (Certificate of Completion)
+- **Hafiza-e-Quran**
 
 ---
 
