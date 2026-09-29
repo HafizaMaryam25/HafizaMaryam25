@@ -98,7 +98,7 @@ I don't just learn to code — I ship products. Every stack I've touched has res
 | 🛍️ **[BabyShopHub](https://github.com/HafizaMaryam25/BabyShopHub)** — Live | Cross-platform e-commerce app for baby products with full product browsing, cart, wishlist, checkout, order tracking, and an admin panel. | `Flutter` `Dart` `Firebase Auth` `Firestore` `Provider` `Cloudinary` |
 | 🎪 **[EventSphere Management](https://github.com/HafizaMaryam25/Eventsphere_Management)** — Live | Full-stack exhibition & expo management platform with booth bookings, exhibitor profiles, real-time notifications, QR-code booking, and analytics dashboards. | `React` `Node.js` `Express` `MongoDB` `Socket.io` `JWT` `Cloudinary` |
 | 🎓 **[Student Management System](https://github.com/HafizaMaryam25/Student-Management-System)** — Live | Web-based student records system with secure cookie-based authentication and role-based admin/student access, backed by Firebase Firestore. | `ASP.NET Core MVC` `C#` `Firebase` |
-| 🌍 **[EarthScape Climate Agency](https://github.com/HafizaMaryam25/ml_project)** | End-to-end Big Data & ML platform processing 40,000+ climate records — simulated Hadoop pipeline, 3 trained ML models (R²=0.985 forecasting model), and an 8-tab interactive dashboard. | `Python` `Pandas` `scikit-learn` `Chart.js` `Leaflet.js` |
+| 🌍 **[EarthScape Climate Agency](https://github.com/HafizaMaryam25/Earth_Space)** | End-to-end Big Data & ML platform processing 40,000+ climate records — simulated Hadoop pipeline, 3 trained ML models (R²=0.985 forecasting model), and an 8-tab interactive dashboard. | `Python` `Pandas` `scikit-learn` `Chart.js` `Leaflet.js` |
 
 <p align="center">
   <img src="./screenshots/earthscape_dashboard.png" width="45%">
