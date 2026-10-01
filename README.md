@@ -101,7 +101,7 @@ I don't just learn to code — I ship products. Every stack I've touched has res
 | 🌍 **[EarthScape Climate Agency](https://github.com/HafizaMaryam25/Earth_Space)** | End-to-end Big Data & ML platform processing 40,000+ climate records — simulated Hadoop pipeline, 3 trained ML models (R²=0.985 forecasting model), and an 8-tab interactive dashboard. | `Python` `Pandas` `scikit-learn` `Chart.js` `Leaflet.js` |
 
 <p align="center">
-  <img src="./screenshots/home.jpeg" width="45%">
+  <img src="studentmanagement_home.jpeg" width="45%">
   <img src="./screenshots/home.jpeg" width="45%">
 </p>
 
