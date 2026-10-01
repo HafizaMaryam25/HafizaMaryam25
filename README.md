@@ -104,6 +104,7 @@ I don't just learn to code — I ship products. Every stack I've touched has res
   <img src="babyshop_home.jpeg" width="40%">
   <img src="eventsphere_home.jpeg" width="40%">
    <img src="studentmanagement_home.jpeg" width="40%">
+     <img src="earthspace_home.png" width="40%">
 </p>
 
 ---
